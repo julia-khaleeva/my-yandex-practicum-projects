@@ -1,7 +1,7 @@
 These are study projects developed for Practicum by Yandex Data Analysis course.
 Please, see README files for the summaries.
 
-## Analysis of user behavior in a mobile application
+## 1. Analysis of user behavior in a mobile application
 
 ### Technologies used
 
@@ -9,14 +9,14 @@ Python,
 Matplotlib, 
 Pandas, 
 Plotly, 
-Seaborn,  
+Seaborn, 
 A/B testing, 
 data visualization, 
 testing of statistical hypotheses, 
 product metrics, 
 event-driven analytics.
 
-## Customer Churn Prediction for Health Clubs
+## 2. Customer Churn Prediction for Health Clubs
 
 ### Technologies used
 Python, 
@@ -28,12 +28,12 @@ classification,
 cluster analysis, 
 machine learning.
 
-## Project: Finding an optimal billing plan for a telecom company 
+## 3. Finding an optimal billing plan for a telecom company 
 
 ### Technologies used 
 Python, 
 Matplotlib, 
-NumPy,  
+NumPy, 
 Pandas, 
 SciPy, 
 descriptive statistics, 
